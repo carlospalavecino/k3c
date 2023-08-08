@@ -1,3 +1,7 @@
 name: k3c
 help: Open-source lightweight bashScript for deploying k3s clusters. GPL 2.0
 version: 0.0.0
+
+commands:
+  - name: init
+    help: Add a sample block of an application on the cluster_file
