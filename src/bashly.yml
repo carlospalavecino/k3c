@@ -1,5 +1,5 @@
 name: k3c
-help: Open-source lightweight bashScript for deploying k3s clusters. GPL 2.0
+help: Open-source lightweight bashScript for bootstraping k3s clusters. GPL 2.0
 version: 0.0.0
 
 commands:
